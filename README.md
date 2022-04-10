@@ -1,7 +1,7 @@
 ### Olá!Sou a Manuele, chame de Manu caso queira👋
 
 - 🔭 Buscando oportunidades para aprimorar minha experiência em Back-end.
-- 🌱 Atualmente estudando python e SQL.
+- 🌱 Atualmente estudando HTML E CSS.
 - 😄 Pronouns:Ela/Dela
 - 📫 How to reach me: manuele.mauricio.l@gmail.com
 - 📫 How to reach in linkedin: Manuele Maurício Lamenha
