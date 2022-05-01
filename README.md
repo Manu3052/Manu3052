@@ -18,7 +18,7 @@
  
 <div>
   <a href = "mailto:manuele.mauricio.l@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img align="right" alt="Manu" height="120"
+  <a href="https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img align="right" alt="Manu" height="120"</a>
 </div>
   
   
