@@ -5,7 +5,7 @@
 - 😄 Pronouns:Ela/Dela
 - 📫 How to reach me: manuele.mauricio.l@gmail.com
 - 📫 How to reach in linkedin: Manuele Maurício Lamenha
-- 
+
 <div align="left">
   <a href="https://github.com/Manu3052">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manu3052&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -18,7 +18,7 @@
  
 <div>
   <a href = "mailto:manuele.mauricio.l@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img align="right" alt="Manu" height="120" src="https://picrew.me/image_maker/368645/complete?cd=ulKS0romIS">
+  <a href="https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"><img align="right" alt="Manu" height="120"
 </div>
   
   
