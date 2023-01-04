@@ -1,9 +1,9 @@
-### Olá!Sou a Manuele, chame de Manu caso queira👋
+### Olá! Sou a Manuele, me chame de Manu caso queira👋
 
 - 🔭 Atualmente estudando e trabalhando.
-- 😄 Pronouns:Ela/Dela
-- 📫 How to reach me: manuele.mauricio.l@gmail.com
-- 📫 How to reach in linkedin: https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/
+- 😄 Pronomes:Ela/Dela
+- 📫 Contate-me: manuele.mauricio.l@gmail.com
+- 📫 Contate-me no linkedin: https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/
 
 <div align="left">
   <a href="https://github.com/Manu3052">
