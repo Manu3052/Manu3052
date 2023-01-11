@@ -1,4 +1,4 @@
-### Olá! Sou a Manuele, me chame de Manu caso queira👋
+### Olá! Sou a Manu👋
 
 - 🔭 Atualmente estudante na UNP e estagiária em programação na MCSMarkup
 - 😄 Pronomes:Ela/Dela
