@@ -1,6 +1,6 @@
 ### Olá! Sou a Manuele, me chame de Manu caso queira👋
 
-- 🔭 Atualmente estudando e trabalhando.
+- 🔭 Atualmente estudante na UNP e estagiária em programação na MCSMarkup
 - 😄 Pronomes:Ela/Dela
 - 📫 Contate-me: manuele.mauricio.l@gmail.com
 - 📫 Contate-me no linkedin: https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/
