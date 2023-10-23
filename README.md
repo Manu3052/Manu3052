@@ -1,6 +1,5 @@
 ### Olá! Sou a Manu👋
 
-- 🔭 Atualmente estudante na UNP e estagiária em programação na MCSMarkup
 - 😄 Pronomes:Ela/Dela
 - 📫 Contate-me: manuele.mauricio.l@gmail.com
 - 📫 Contate-me no linkedin: https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/
