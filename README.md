@@ -1,5 +1,6 @@
-<div align="center">
-  <img height="180em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOg5h63lNRGgtOWhSPmQNK5DCtmdHYz-Fyw&usqp=CAU" />
+<div display="flex">
+  <h1>Manuele Mauricio</h1>
+  <img height="180em" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" />
 </div>
 
 <div align="center">
