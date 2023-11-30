@@ -1,9 +1,6 @@
-### Olá! Sou a Manu👋
-
-- 😄 Pronomes:Ela/Dela
-- 📫 Contate-me: manuele.mauricio.l@gmail.com
-- 📫 Contate-me no linkedin: https://www.linkedin.com/in/manuele-maurício-lamenha-99460a216/
-
+<div align="center">
+  <img height="180em" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjOg5h63lNRGgtOWhSPmQNK5DCtmdHYz-Fyw&usqp=CAU" />
+</div>
 
 <div align="center">
   <div align="left">
