@@ -5,7 +5,7 @@
 <img align="right" height="180em" src="https://user-images.githubusercontent.com/74038190/216658123-b1fdfa47-8605-467a-ab8b-0e87a7916002.gif" />
 
 <p>
-  <strong>Contacts me:</strong>
+  <strong>Contact me:</strong>
 </p>
 
 <a href = "mailto:manuele.mauricio.l@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
